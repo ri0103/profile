@@ -80,7 +80,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
                 android:layout_weight="1"
-                android:backgroundTint="#00b4dc"
+                android:backgroundTint="#969696"
                 android:text="スポーツ" />
         </LinearLayout>
 
@@ -95,7 +95,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
                 android:layout_weight="1"
-                android:backgroundTint="#00b4dc"
+                android:backgroundTint="#969696"
                 android:text="好きな食べ物" />
 
             <Button
@@ -104,7 +104,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
                 android:layout_weight="1"
-                android:backgroundTint="#00b4dc"
+                android:backgroundTint="#969696"
                 android:text="趣味" />
 
         </LinearLayout>
